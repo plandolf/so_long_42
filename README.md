@@ -37,11 +37,3 @@
 1. Prepare a map file with the `.ber` extension.
 2. Run the game with the map file as an argument:
     ./so_long map.ber
-
-### Example Map
-
-1111111111111\n
-10010000000C1\n
-1000011111001\n
-1P0011E000001\n
-1111111111111\n
